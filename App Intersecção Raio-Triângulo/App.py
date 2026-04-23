@@ -1,3 +1,4 @@
+#python -m streamlit run App.py para executar
 import streamlit as st
 import numpy as np
 import plotly.graph_objects as go
